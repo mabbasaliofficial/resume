@@ -1,38 +1,90 @@
-.App {
-  text-align: center;
+@font-face {
+  font-family: imported;
+  src: url(./Fonts/arial.ttf);
 }
-
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+#root{ 
+  font-family: imported;
 }
-
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
+.App{
+  height: 11.7in;
+  width: 8.3in;
+  border: 1px solid black;
+  margin: 10px auto;
 }
-
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
+.identity{
+  margin-left: 96px;
+  margin-right: 96px;
+  margin-top: 96px;
+}
+.title{
+  margin: 0;
+  font-size: 30px;
+  margin-bottom: 5px;
+}
+.profession{
+  margin: 0;
+  color: black;
+  margin-bottom: 2px;
+}
+.location{
+  margin: 0;
+  color: gray;
+}
+.contact{
+  margin-left: 96px;
+  margin-right: 96px;
+  margin-top: 30px;
+}
+.contacts{
+  margin-bottom: 5px;
+}
+.contact-container{
   display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+  justify-content: space-between;
 }
-
-.App-link {
-  color: #61dafb;
+.email-container{
+  margin-top: 10px;
 }
-
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+.email-title{
+  margin: 0;
+}
+.email{
+  margin: 0;
+}
+.github-container{
+  margin-top: 5px;
+}
+.github-title{
+  margin: 0;
+}
+.github{
+  margin: 0;
+}
+.summary{
+  margin-left: 96px;
+  margin-right: 96px;
+  margin-top: 30px;
+}
+.summary-title{
+  margin-bottom: 5px;
+}
+.summary-body{
+  margin: 0px;
+}
+.skills{
+  margin-left: 96px;
+  margin-right: 96px;
+  margin-top: 30px;
+}
+.skills-name{
+  padding: 10px;
+  color: black;
+  margin: 5px;
+  background-color: rgb(219, 224, 228);
+  border-radius: 5px;
+  border: none;
+}
+.skills-category{
+  color: gray;
+  font-size: 12px;
 }

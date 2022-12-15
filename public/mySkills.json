@@ -1,0 +1,77 @@
+[
+    {
+        "id": 1,
+        "name": "HTML",
+        "level": "Expert"
+    },
+    {
+        "id": 2,
+        "name": "HTML5",
+        "level": "Expert"
+    },
+    {
+        "id": 3,
+        "name": "CSS",
+        "level": "Expert"
+    },
+    {
+        "id": 4,
+        "name": "CSS3",
+        "level": "Expert"
+    },
+    {
+        "id": 5,
+        "name": "JavaScript",
+        "level": "Expert"
+    },
+    {
+        "id": 6,
+        "name": "ES6",
+        "level": "Expert"
+    },
+    {
+        "id": 7,
+        "name": "React JS",
+        "level": "Expert"
+    },
+    {
+        "id": 8,
+        "name": "Node JS",
+        "level": "Expert"
+    },
+    {
+        "id": 9,
+        "name": "MongoDB",
+        "level": "Expert"
+    },
+    {
+        "id": 10,
+        "name": "Bootstrap",
+        "level": "Expert"
+    },
+    {
+        "id": 11,
+        "name": "React Bootstrap",
+        "level": "Expert"
+    },
+    {
+        "id": 12,
+        "name": "Tailwind CSS",
+        "level": "Expert"
+    },
+    {
+        "id": 13,
+        "name": "Daisy UI",
+        "level": "Expert"
+    },
+    {
+        "id": 14,
+        "name": "Material UI",
+        "level": "Expert"
+    },
+    {
+        "id": 15,
+        "name": "React Query",
+        "level": "Expert"
+    }
+]
